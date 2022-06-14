@@ -3,7 +3,7 @@ import './styles/App.css';
 import WeatherDisplay from './components/WeatherDisplay';
 import AboutWeather from './components/AboutWeather';
 
-const API = "166d6b4dbe6e08a08eebbd7622840d77";//API key
+const API = "166d6b4dbe6e08a08eebbd7622******";//API key
 
 function App() {
   const [temp,setTemp] = useState(undefined);//Temperature
